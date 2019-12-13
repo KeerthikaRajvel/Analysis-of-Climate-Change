@@ -34,7 +34,7 @@ The dataset approximately has around 1 million instances.
 
 ## Code:
 
-The code for each component is available in their individual folders. All codes were written in jupyter interactive ipython notebooks. 
+The code for each component is available in their individual folders. All Analyses were done in jupyter interactive ipython notebooks. 
 
 ## Key Results:
 
